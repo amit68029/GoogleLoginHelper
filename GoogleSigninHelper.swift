@@ -2,8 +2,8 @@
 //  GoogleSigninHelper.swift
 //  SocialLogins
 //
-//  Created by Ongraph on 21/11/19.
-//  Copyright © 2019 Ongraph. All rights reserved.
+//  Created by Amit Kumar on 21/11/19.
+//  Copyright © 2019 Amit Kumar. All rights reserved.
 //
 
 import Foundation
